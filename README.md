@@ -2,7 +2,7 @@
 ### 👀 I’m interested in  front-end development  
 ### I have master degree in computer science from Nanjing university of science and technology in china, and a bachelor degree in computer programming from Aden university 
 
-### I have start journey to solve 100 challenges from https://www.frontendmentor.io/ , these links below are my solutions :
+### I have started a journey to solve 100 challenges from https://www.frontendmentor.io/ , these links below are my solutions :
 
 1. Order summary card : [solution](https://github.com/moqasalem/order-summary) -  [live](https://moqasalem.github.io/order-summary/)
 2. Time tracking dashboard :  [solution](https://github.com/moqasalem/time-tracking-dashboard-main) - [live](https://moqasalem.github.io/time-tracking-dashboard-main/)
