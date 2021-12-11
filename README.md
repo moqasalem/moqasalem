@@ -4,7 +4,7 @@
 
 - I have start journey to solve 100 challenges from https://www.frontendmentor.io/ , these links below are my solutions :
 
-
+1- Order summary card : [solution](https://github.com/moqasalem/order-summary) [live](https://moqasalem.github.io/order-summary/)
 <!---
 moqasalem/moqasalem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
