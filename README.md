@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @moqasalem 
+### 👋 Hi, I’m Salem Moqa
 ### 👀 I’m interested in  front-end development  
 ### I have master degree in computer science from Nanjing university of science and technology in china, and a bachelor degree in computer programming from Aden university 
 
