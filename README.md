@@ -11,7 +11,7 @@
 5.  E-commerce product page : [solution](https://github.com/moqasalem/E-commerce-product) - [live](https://moqasalem.github.io/E-commerce-product/)
 6.  Space tourism website :  [solution](https://github.com/moqasalem/space-tourism-website) - [live](https://moqasalem.github.io/space-tourism-website/)
 7.  Interactive comments section : [solution](https://github.com/moqasalem/interactive-comments-section) - [live](https://github.com/moqasalem/interactive-comments-section)
-8. Sunnyside agency landing page : [solution](https://github.com/moqasalem/sunnyside-agency-landing-page) - Live Site URL: [live](https://moqasalem.github.io/sunnyside-agency-landing-page/)
+8. Sunnyside agency landing page : [solution](https://github.com/moqasalem/sunnyside-agency-landing-page) - [live](https://moqasalem.github.io/sunnyside-agency-landing-page/)
 <!---
 moqasalem/moqasalem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
