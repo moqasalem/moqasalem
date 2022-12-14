@@ -2,7 +2,7 @@
 ### 👀 I’m interested in  full-stack web  development  
 ### I have master degree in computer science from Nanjing university of science and technology in china, and a bachelor degree in computer programming from Aden university 
 
-### bellow some challenges I have solved them, I would love to hear your feedback :
+### bellow you can browse some of my projects , I would love to hear your feedback :
 
 1. Order summary card : [solution](https://github.com/moqasalem/order-summary) -  [live](https://moqasalem.github.io/order-summary/)
 2. Time tracking dashboard :  [solution](https://github.com/moqasalem/time-tracking-dashboard-main) - [live](https://moqasalem.github.io/time-tracking-dashboard-main/)
