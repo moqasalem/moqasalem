@@ -13,6 +13,7 @@
 7.  Interactive comments section : [Code](https://github.com/moqasalem/interactive-comments-section) - [live](https://github.com/moqasalem/interactive-comments-section)
 8. Sunnyside agency landing page : [Code](https://github.com/moqasalem/sunnyside-agency-landing-page) - [live](https://moqasalem.github.io/sunnyside-agency-landing-page/)
 9.  Chat app CSS illustration : [Code](https://github.com/moqasalem/chat-app-css-illustration-master) - [live](https://moqasalem.github.io/chat-app-css-illustration-master/)
+10. Birthday List : [Code](https://github.com/moqasalem/birthday-list) - [live](https://moqasalem.github.io/birthday-list/)
 
 ##full-stack projects:
 1. image uploader [Code](https://github.com/moqasalem/image-uploader)
