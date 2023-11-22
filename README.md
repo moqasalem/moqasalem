@@ -3,6 +3,14 @@
 I hold a master's degree in Computer Science from Nanjing University of Science and Technology in China and a bachelor's degree in Computer Programming from Aden University.
 
 ## Projects
+
+
+### Full-Stack Projects:
+1. **Image Uploader:** [Code](https://github.com/moqasalem/image-uploader)
+2. **React with Laravel API:** [Code](https://github.com/moqasalem/react-with-laravel-api)
+3. **Student App using Laravel Rest API and React:** [Code](https://github.com/moqasalem/student_app)
+5. **Participated at BJDA App:** [Live](http://bjda.com/)
+
 ### Front-End Projects:
 1. **Order Summary Card:** [Code](https://github.com/moqasalem/order-summary) - [Live](https://moqasalem.github.io/order-summary/)
 2. **Time Tracking Dashboard:** [Code](https://github.com/moqasalem/time-tracking-dashboard-main) - [Live](https://moqasalem.github.io/time-tracking-dashboard-main/)
@@ -16,13 +24,6 @@ I hold a master's degree in Computer Science from Nanjing University of Science 
 10. **Birthday List:** [Code](https://github.com/moqasalem/birthday-list) - [Live](https://moqasalem.github.io/birthday-list/)
 11. **Social App:** [Code](https://github.com/moqasalem/social-app) - [Live](https://moqasalem.github.io//social-app/)
 12. **Erm Gulf Landing Page:** [Live](https://ermgulf.com/)
-
-### Full-Stack Projects:
-1. **Image Uploader:** [Code](https://github.com/moqasalem/image-uploader)
-2. **React with Laravel API:** [Code](https://github.com/moqasalem/react-with-laravel-api)
-3. **Student App using Laravel Rest API and React:** [Code](https://github.com/moqasalem/student_app)
-4. **Tamken-Shabwani Website:** [Live](http://www.tamken-shabwani.com/)
-5. **Participated at BJDA App:** [Live](http://bjda.com/)
 
 
 <!--- 
