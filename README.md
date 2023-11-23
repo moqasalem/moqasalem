@@ -26,6 +26,13 @@ I hold a master's degree in Computer Science from Nanjing University of Science 
 12. **Erm Gulf Landing Page:** [Live](https://ermgulf.com/)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moqasalem&show_icons=true&locale=en&layout=compact" alt="moqasalem" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moqasalem&show_icons=true&locale=en&hide=stars" alt="moqasalem" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moqasalem&" alt="moqasalem" /></p>
+
+
 <!--- 
 moqasalem/moqasalem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
