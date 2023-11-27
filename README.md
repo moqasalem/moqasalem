@@ -1,10 +1,6 @@
-# 👋 Hi, I'm Salem Moqa
-## 👀 Laravel Full-Stack Developer  
-I hold a master's degree in Computer Science from Nanjing University of Science and Technology in China and a bachelor's degree in Computer Programming from Aden University.
-
 <h1 align="center">Hi 👋, I'm Salem</h1>
 <h3 align="center">A Laravel Full-Stack Developer</h3>
-
+I hold a master's degree in Computer Science from Nanjing University of Science and Technology in China and a bachelor's degree in Computer Programming from Aden University.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moqasalem&label=Profile%20views&color=0e75b6&style=flat" alt="moqasalem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moqasalem" alt="moqasalem" /></a> </p>
@@ -29,13 +25,6 @@ I hold a master's degree in Computer Science from Nanjing University of Science 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moqasalem&show_icons=true&locale=en&layout=compact" alt="moqasalem" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moqasalem&show_icons=true&locale=en" alt="moqasalem" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moqasalem&" alt="moqasalem" /></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moqasalem&show_icons=true&locale=en&layout=compact" alt="moqasalem" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moqasalem&show_icons=true&locale=en&hide=stars" alt="moqasalem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moqasalem&" alt="moqasalem" /></p>
 
