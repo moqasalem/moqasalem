@@ -7,7 +7,6 @@ I hold a master's degree in Computer Science from Nanjing University of Science 
 
 <p align="left"> <a href="https://twitter.com/salem_moqa" target="blank"><img src="https://img.shields.io/twitter/follow/salem_moqa?logo=twitter&style=for-the-badge" alt="salem_moqa" /></a> </p>
 
-- 🔭 I’m currently working on **bjda**
 
 - 💬 Ask me about **Laravel**
 
