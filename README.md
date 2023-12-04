@@ -40,21 +40,20 @@ I hold a master's degree in Computer Science from Nanjing University of Science 
 ### Front-End Projects:
 1. **Order Summary Card:** [Code](https://github.com/moqasalem/order-summary) - [Live](https://moqasalem.github.io/order-summary/)
 2. **Time Tracking Dashboard:** [Code](https://github.com/moqasalem/time-tracking-dashboard-main) - [Live](https://moqasalem.github.io/time-tracking-dashboard-main/)
-3. **SNFT Preview Card Component:** [Code](https://github.com/moqasalem/NFT-preview-card-component) - [Live](https://moqasalem.github.io/NFT-preview-card-component/)
-4. **REST Countries API with Color Theme Switcher:** [Code](https://github.com/moqasalem/rest-countries-api-with-color-theme-switcher-master) - [Live](https://moqasalem.github.io/rest-countries-api-with-color-theme-switcher-master/)
-5. **E-commerce Product Page:** [Code](https://github.com/moqasalem/E-commerce-product) - [Live](https://moqasalem.github.io/E-commerce-product/)
-6. **Space Tourism Website:** [Code](https://github.com/moqasalem/space-tourism-website) - [Live](https://moqasalem.github.io/space-tourism-website/)
-7. **Interactive Comments Section:** [Code](https://github.com/moqasalem/interactive-comments-section) - [Live](https://github.com/moqasalem/interactive-comments-section)
-8. **Sunnyside Agency Landing Page:** [Code](https://github.com/moqasalem/sunnyside-agency-landing-page) - [Live](https://moqasalem.github.io/sunnyside-agency-landing-page/)
-9. **Chat App CSS Illustration:** [Code](https://github.com/moqasalem/chat-app-css-illustration-master) - [Live](https://moqasalem.github.io/chat-app-css-illustration-master/)
-10. **Birthday List:** [Code](https://github.com/moqasalem/birthday-list) - [Live](https://moqasalem.github.io/birthday-list/)
-11. **Social App:** [Code](https://github.com/moqasalem/social-app) - [Live](https://moqasalem.github.io//social-app/)
-12. **Erm Gulf Landing Page:** [Live](https://ermgulf.com/)
+3.  **REST Countries API with Color Theme Switcher:** [Code](https://github.com/moqasalem/rest-countries-api-with-color-theme-switcher-master) - [Live](https://moqasalem.github.io/rest-countries-api-with-color-theme-switcher-master/)
+
+<!--
+4. **SNFT Preview Card Component:** [Code](https://github.com/moqasalem/NFT-preview-card-component) - [Live](https://moqasalem.github.io/NFT-preview-card-component/) 
+5. **REST Countries API with Color Theme Switcher:** [Code](https://github.com/moqasalem/rest-countries-api-with-color-theme-switcher-master) - [Live](https://moqasalem.github.io/rest-countries-api-with-color-theme-switcher-master/)
+6. **E-commerce Product Page:** [Code](https://github.com/moqasalem/E-commerce-product) - [Live](https://moqasalem.github.io/E-commerce-product/)
+7. **Space Tourism Website:** [Code](https://github.com/moqasalem/space-tourism-website) - [Live](https://moqasalem.github.io/space-tourism-website/)
+8. **Interactive Comments Section:** [Code](https://github.com/moqasalem/interactive-comments-section) - [Live](https://github.com/moqasalem/interactive-comments-section)
+9. **Sunnyside Agency Landing Page:** [Code](https://github.com/moqasalem/sunnyside-agency-landing-page) - [Live](https://moqasalem.github.io/sunnyside-agency-landing-page/)
+10. **Chat App CSS Illustration:** [Code](https://github.com/moqasalem/chat-app-css-illustration-master) - [Live](https://moqasalem.github.io/chat-app-css-illustration-master/)
+11. **Birthday List:** [Code](https://github.com/moqasalem/birthday-list) - [Live](https://moqasalem.github.io/birthday-list/)
+12. **Social App:** [Code](https://github.com/moqasalem/social-app) - [Live](https://moqasalem.github.io//social-app/)
+13. **Erm Gulf Landing Page:** [Live](https://ermgulf.com/)
+-->
 
 
 
-
-<!--- 
-moqasalem/moqasalem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
