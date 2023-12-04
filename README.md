@@ -33,7 +33,7 @@ I hold a master's degree in Computer Science from Nanjing University of Science 
 
 ### Full-Stack Projects:
 1. **Participated at BJDA App:** [Live](http://bjda.com/)
-2. **School Project:** [Description]([https://github.com/moqasalem/image-uploader](https://github.com/moqasalem/school))
+2. **School Project:** [Description]([https://github.com/moqasalem/image-uploader](https://github.com/moqasalem/school])
 3. **React with Laravel API:** [Code](https://github.com/moqasalem/react-with-laravel-api)
 4. **Student App using Laravel Rest API and React:** [Code](https://github.com/moqasalem/student_app)
 
