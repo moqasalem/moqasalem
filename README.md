@@ -33,8 +33,7 @@ I hold a master's degree in Computer Science from Nanjing University of Science 
 1. **Tamken Website:** [Live](https://www.tamken-shabwani.com/)
 2. **Participated at BJDA App:** [Live](http://bjda.com/)
 3. **School Project:** [Description](https://github.com/moqasalem/school)
-4. **React with Laravel API:** [Code](https://github.com/moqasalem/react-with-laravel-api)
-5. **Student App using Laravel Rest API and React:** [Code](https://github.com/moqasalem/student_app)
+4. **Student App using Laravel Rest API and React:** [Code](https://github.com/moqasalem/student_app)
 
 ### Front-End Projects:
 1. **Order Summary Card:** [Code](https://github.com/moqasalem/order-summary) - [Live](https://moqasalem.github.io/order-summary/)
@@ -42,6 +41,7 @@ I hold a master's degree in Computer Science from Nanjing University of Science 
 3.  **REST Countries API with Color Theme Switcher:** [Code](https://github.com/moqasalem/rest-countries-api-with-color-theme-switcher-master) - [Live](https://moqasalem.github.io/rest-countries-api-with-color-theme-switcher-master/)
 
 <!--
+4. **React with Laravel API:** [Code](https://github.com/moqasalem/react-with-laravel-api)
 4. **SNFT Preview Card Component:** [Code](https://github.com/moqasalem/NFT-preview-card-component) - [Live](https://moqasalem.github.io/NFT-preview-card-component/) 
 5. **REST Countries API with Color Theme Switcher:** [Code](https://github.com/moqasalem/rest-countries-api-with-color-theme-switcher-master) - [Live](https://moqasalem.github.io/rest-countries-api-with-color-theme-switcher-master/)
 6. **E-commerce Product Page:** [Code](https://github.com/moqasalem/E-commerce-product) - [Live](https://moqasalem.github.io/E-commerce-product/)
