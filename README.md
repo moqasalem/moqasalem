@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salem</h1>
 <h3 align="center">A Laravel Full-Stack Developer</h3>
-I hold a master's degree in Computer Science from Nanjing University of Science and Technology and a bachelor's degree in Computer Programming from Aden University. With over seven years of hands-on experience, I've worked on diverse projects, mastering languages like C++, C#, ASP.net, Python, and MATLAB. My expertise includes robust web development, demonstrated through successful design and implementation of various user-friendly websites. Excited to contribute my skills to new challenges in technology.
+I am a Laravel Full-Stack Developer with three years of exceptional PHP development expertise. My proficiency extends to crafting robust applications using various PHP web frameworks, including Laravel. I excel in developing intuitive user interfaces, leveraging HTML, CSS, and JavaScript, and possess a strong grasp of MySQL. As a collaborative team player, I seamlessly integrate with internal cross-functional departments. Thriving in a hands-on, action-oriented culture, I am adept at performing effectively under pressure and adapting swiftly to changes.
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moqasalem&label=Profile%20views&color=0e75b6&style=flat" alt="moqasalem" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moqasalem" alt="moqasalem" /></a> </p>
