@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Salem</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
-I am a Full-Stack Web Developer  with three years of exceptional PHP development expertise. My proficiency extends to crafting robust applications using various PHP web frameworks, including Laravel. I excel in developing intuitive user interfaces, leveraging HTML, CSS, and JavaScript, and possess a strong grasp of MySQL. As a collaborative team player, I seamlessly integrate with internal cross-functional departments. Thriving in a hands-on, action-oriented culture, I am adept at performing effectively under pressure and adapting swiftly to changes.
+      I am a Full-Stack Web Developer with three years of exceptional PHP development expertise. My proficiency extends to crafting robust applications using various PHP web frameworks, including Laravel. I excel in developing intuitive user interfaces, leveraging HTML, CSS, and JavaScript.
+      In addition to my PHP skills, I am well-versed in front-end technologies such as Tailwind CSS, Bootstrap, and React, enabling me to create visually appealing and responsive designs. My hands-on experience with these technologies allows me to seamlessly integrate dynamic and interactive elements into web applications.
+
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moqasalem&label=Profile%20views&color=0e75b6&style=flat" alt="moqasalem" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moqasalem" alt="moqasalem" /></a> </p>
