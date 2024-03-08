@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salem</h1>
-<h3 align="center">A Full-Stack Web Developer </h3>
+<h3 align="center">A Full-Stack Web Developer</h3>
       I am a Full-Stack Web Developer with exceptional PHP development expertise. My proficiency extends to crafting robust applications using various PHP web frameworks, including Laravel. In addition to my PHP skills, I am well-versed in front-end technologies such as Tailwind CSS, Bootstrap, and React, enabling me to create visually appealing and responsive designs. My hands-on experience with these technologies allows me to seamlessly integrate dynamic and interactive elements into web applications.
 
 <!--
