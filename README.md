@@ -27,7 +27,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moqasalem&" alt="moqasalem" /></p> 
 
 
-
+<!--
 ## Projects
 
 
@@ -41,7 +41,7 @@
 ### Front-End Projects:
 1. **Order Summary Card:** [Code](https://github.com/moqasalem/order-summary) - [Live](https://moqasalem.github.io/order-summary/)
 2.  **REST Countries API with Color Theme Switcher:** [Code](https://github.com/moqasalem/rest-countries-api-with-color-theme-switcher-master) - [Live](https://moqasalem.github.io/rest-countries-api-with-color-theme-switcher-master/)
-
+--!>
 <!--
 2. **Time Tracking Dashboard:** [Code](https://github.com/moqasalem/time-tracking-dashboard-main) - [Live](https://moqasalem.github.io/time-tracking-dashboard-main/)
 4. **React with Laravel API:** [Code](https://github.com/moqasalem/react-with-laravel-api)
